@@ -1,5 +1,9 @@
 # next-level-week-1
+
+
   Project codes developed during the first edtion of Next Level Week of  booster  level offered by RocketSeat.
+  
+  Codes do projeto desenvolvidos durante a primeira edição do Next Level Week de nível booster oferecido pela RocketSeat.
 
 - [X] First Day.
 - [ ] Second Day.
