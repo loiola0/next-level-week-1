@@ -1,9 +1,14 @@
-# next-level-week-1
+#  :rocket: Next Level Week One Edition
 
 
-  Project codes developed during the first edtion of Next Level Week of  booster  level offered by RocketSeat.
+  :us: Project codes developed during the first edtion of Next Level Week of  booster  level offered by RocketSeat.
   
-  Códigos do projeto desenvolvido durante a primeira edição do Next Level Week de nível booster oferecido pela RocketSeat.
+  :brazil: Códigos do projeto desenvolvido durante a primeira edição do Next Level Week de nível booster oferecido pela RocketSeat.
+ 
+ 
+ 
+
+# :date: Schedule
 
 - [X] First Day.
 - [ ] Second Day.
@@ -13,23 +18,31 @@
 - [ ] Sixth Day.
 - [ ] Seventh Day.
 
-# About
+
+
+
+# About :recycle:
 
   This application has the function of uniting people who dispose of garbage to companies/ supermarkets that
 respectively collect this waste, such as organic waste, metals(batteries,electronics, pet bottles and others.
 
-# Sobre
+# Sobre :recycle:
   
   Esta aplicação tem função de unir pessoas que descartam lixo á empresas/supermercados que respectivamente
 recolhem esses rejeitos, como lixo orgânico, metais(bateria, eletrônicos), garrafas pets e dentre outros.
 
+
+
+
+
+
 # Technologies Used - Tecnologias Utilizadas
 
-*Back-end:*
+:nut_and_bolt: *Back-end:*
   NodeJS
   
- *Front-end*
+ :computer: *Front-end*
   ReactJs with typescript
   
- *Mobile*
+ :calling: *Mobile*
   React-Native
