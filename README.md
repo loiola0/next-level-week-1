@@ -19,14 +19,14 @@
 - [ ] Seventh Day.
 
 
+# :seedling: Ecoleta :wastebasket:
 
-
-# About :recycle:
+# :recycle: About 
 
   This application has the function of uniting people who dispose of garbage to companies/ supermarkets that
 respectively collect this waste, such as organic waste, metals(batteries,electronics, pet bottles and others.
 
-# Sobre :recycle:
+# :recycle: Sobre 
   
   Esta aplicação tem função de unir pessoas que descartam lixo á empresas/supermercados que respectivamente
 recolhem esses rejeitos, como lixo orgânico, metais(bateria, eletrônicos), garrafas pets e dentre outros.
@@ -36,7 +36,7 @@ recolhem esses rejeitos, como lixo orgânico, metais(bateria, eletrônicos), gar
 
 
 
-# Technologies Used - Tecnologias Utilizadas
+# :bulb: Technologies Used - Tecnologias Utilizadas
 
 :nut_and_bolt: *Back-end:*
   NodeJS
