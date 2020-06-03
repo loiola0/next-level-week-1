@@ -11,7 +11,7 @@
 # :date: Schedule
 
 - [X] First Day.
-- [ ] Second Day.
+- [X] Second Day.
 - [ ] Third Day.
 - [ ] Fourth Day.
 - [ ] Fifth Day.
