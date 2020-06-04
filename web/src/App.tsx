@@ -1,15 +1,19 @@
-import React from 'react';
-import logo from './logo.svg';
+import React from  'react';
 import './App.css';
 
+import Routes from './routes';
+
+//jsx: possibilidade de escrever html(XML) dentro do javascript.
+//component:
+//estado: guarda informção sobre o componente.
+
+//imutabilidade coloca um novo valor com as infomarções que dejesa-se.
+
+
 function App() {
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-          <h1>Hello World!</h1>
-      </header>
-    </div>
+       <Routes/>
   );
 }
 
