@@ -1,4 +1,4 @@
-#  :rocket: Next Level Week One Edition
+#  :rocket: Next Level Week First Edition
 
 
   :us: Project codes developed during the first edtion of Next Level Week of  booster  level offered by RocketSeat.
@@ -11,7 +11,7 @@
 # :date: Schedule
 
 - [X] First Day.
-- [ ] Second Day.
+- [X] Second Day.
 - [ ] Third Day.
 - [ ] Fourth Day.
 - [ ] Fifth Day.
