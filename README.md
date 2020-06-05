@@ -12,7 +12,7 @@
 
 - [X] First Day.
 - [X] Second Day.
-- [ ] Third Day.
+- [X] Third Day.
 - [ ] Fourth Day.
 - [ ] Fifth Day.
 - [ ] Sixth Day.
