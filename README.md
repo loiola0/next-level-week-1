@@ -13,10 +13,9 @@
 - [X] First Day.
 - [X] Second Day.
 - [X] Third Day.
-- [ ] Fourth Day.
+- [X] Fourth Day.
 - [ ] Fifth Day.
-- [ ] Sixth Day.
-- [ ] Seventh Day.
+
 
 
 # :seedling: Ecoleta :wastebasket:
